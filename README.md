@@ -4,6 +4,8 @@ Fiddling with natural language processing on protein sequences.
 ## Графики обучения на WandB
 https://wandb.ai/ctcf/fiddling-with-proteins
 
+![image](https://user-images.githubusercontent.com/25302233/179421506-2a9fde17-e3bb-4506-9611-0171db9495f7.png)
+
 ## Google colab
 https://colab.research.google.com/drive/1tWy1hdjkBp_WK3Tdb0IBD7-L7tZ7oTKS?usp=sharing
 
